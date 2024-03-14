@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(5, 60, 94) ;
+    color: #fff8f0;
+}
+
+#student_information {
+    color: rgba(157, 217, 210, 0.5)
+}
+/* 
+.dotted-bold-divider {
+    border: 5px dashed #A31621;
+    
+} */
